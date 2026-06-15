@@ -1,0 +1,44 @@
+.biography{
+  margin: 10px;
+  border-radius: 10px;
+  background-color: white;
+  padding: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  
+}
+.achievements{
+  margin: 10px;
+  border-radius: 10px;
+  background-color: white;
+  padding: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.content{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  margin: auto;
+}
+
+.content:hover{
+  color: green;
+}
+
+header{ 
+  background-color: blue; 
+  color: white; 
+  text-align: center; 
+  padding: 20px;
+  margin: 0px; 
+}
+
+footer{ 
+  background-color: blue; 
+  color: white; 
+  text-align: center; 
+  padding: 20px;
+  margin: 0px; 
+}
+
+body{
+  background-color: lightgray;
+}
